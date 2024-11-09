@@ -3,7 +3,7 @@ A Real Estate Application which leverages data science techniques to provide ins
 Deployed : https://real-estate-app-cwq4.onrender.com/
 
 - Data Gathering and cleaning :
-The data for this project has been gathered through web scrapping the 99acres.com website. Data of 256 communities and 3000 flats was gathered, cleaned and pre-processed. To prepare the dataset for analysis, a meticulous data cleaning process was undertaken, handling missing values and ensuring consistency. The data was then merged, bringing together information on villa and flats into a unified dataset.
+The data for this project has been gathered through web scraping. Data of 256 communities and 3000 flats was gathered, cleaned and pre-processed. To prepare the dataset for analysis, a meticulous data cleaning process was undertaken, handling missing values and ensuring consistency. The data was then merged, bringing together information on villa and flats into a unified dataset.
 
 - Feature Engineering :
 New features such as additional room indicators, age of possession, furnish details, luxury score etc were introduced to provide a more detailed representation of the properties
